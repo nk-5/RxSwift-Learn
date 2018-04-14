@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Observable'/>
+        <page name='Subjects'/>
+        <page name='FilterOperator'/>
+        <page name='Blog-learn'/>
+        <page name='TransformingOperators'/>
+        <page name='CombiningOperators'/>
+    </pages>
+</playground>
